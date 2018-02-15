@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<BlackList 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="CNL_JapaneseLocalization">
+  <strings>
+<!-- Blacklist the default AVENUE_NAME_PATTERN to eliminate "{0} Street" as an Avenue Pattern -->
+    <LocalizedStringKey identifier="AVENUE_NAME_PATTERN" />
+<!-- Blacklist these default patterns because we're going to include them in the re-definition -->
+    <LocalizedStringKey identifier="BRIDGE_NAME_PATTERN" />
+    <LocalizedStringKey identifier="HIGHWAY_NAME_PATTERN" />
+    <LocalizedStringKey identifier="ROAD_NAME_PATTERN" />
+    <LocalizedStringKey identifier="STREET_NAME_PATTERN" />
+    <LocalizedStringKey identifier="TUNNEL_NAME_PATTERN" />
+
+<!-- Blacklist DISTRICT -->
+    <LocalizedStringKey identifier="DISTRICT_PATTERN" />
+    <LocalizedStringKey identifier="DISTRICT_NAME"/>
+    
+
+<!-- Blacklist  Female First-Names -->
+    <LocalizedStringKey  identifier="NAME_FEMALE_FIRST" />
+<!-- Blacklist  Female Last-Names -->
+    <LocalizedStringKey  identifier="NAME_FEMALE_LAST" />
+<!-- Blacklist  Male First-Names -->
+    <LocalizedStringKey  identifier="NAME_MALE_FIRST" />
+<!-- Blacklist  Male Last-Names -->
+    <LocalizedStringKey  identifier="NAME_MALE_LAST" />
+
+
+<!-- Blacklist  RESIDENCE -->
+    <LocalizedStringKey identifier="RESIDENCE_LOW_PATTERN"  />
+    <LocalizedStringKey identifier="RESIDENCE_HIGH_PATTERN" />
+    <LocalizedStringKey identifier="RESIDENCE_NAME" />
+
+  </strings>
+</BlackList>

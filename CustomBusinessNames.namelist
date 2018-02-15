@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NameList 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="CNL_JapaneseLocalization">
+  <strings>
+
+<!-- Custom Commercial Low Names -->
+    <LocalizedString identifier="COMMERCIAL_LOW_NAME" key="Level1">ファーストリテイリング</LocalizedString>
+    <LocalizedString identifier="COMMERCIAL_LOW_NAME" key="Level1">ダイソー</LocalizedString>
+    <LocalizedString identifier="COMMERCIAL_LOW_NAME" key="Level2">セブン＆アイ</LocalizedString>
+    <LocalizedString identifier="COMMERCIAL_LOW_NAME" key="Level2">マツモトキヨシ</LocalizedString>
+    <LocalizedString identifier="COMMERCIAL_LOW_NAME" key="Level3">イオン</LocalizedString>
+    <LocalizedString identifier="COMMERCIAL_LOW_NAME" key="Level3">ライフ</LocalizedString>
+
+<!-- Custom Commercial High Names -->
+    <LocalizedString identifier="COMMERCIAL_HIGH_NAME" key="Level1">ダイエー</LocalizedString>
+    <LocalizedString identifier="COMMERCIAL_HIGH_NAME" key="Level1">ドンキホーテ</LocalizedString>
+    <LocalizedString identifier="COMMERCIAL_HIGH_NAME" key="Level2">三越伊勢丹</LocalizedString>
+    <LocalizedString identifier="COMMERCIAL_HIGH_NAME" key="Level2">髙島屋</LocalizedString>
+    <LocalizedString identifier="COMMERCIAL_HIGH_NAME" key="Level3">ヤマダ電機</LocalizedString>
+
+<!-- Custom Extractor Names -->
+    <LocalizedString identifier="EXTRACTOR_NAME" key="IndustrialFarming">ホクト</LocalizedString>
+    <LocalizedString identifier="EXTRACTOR_NAME" key="IndustrialForestry">住友林業</LocalizedString>
+    <LocalizedString identifier="EXTRACTOR_NAME" key="IndustrialOil">昭和シェル</LocalizedString>
+    <LocalizedString identifier="EXTRACTOR_NAME" key="IndustrialOre">三井物産</LocalizedString>
+
+
+<!-- Custom Industrial Names -->
+    <LocalizedString identifier="INDUSTRIAL_NAME" key="Level1">オリンパス</LocalizedString>
+    <LocalizedString identifier="INDUSTRIAL_NAME" key="Level2">三菱重工業</LocalizedString>
+    <LocalizedString identifier="INDUSTRIAL_NAME" key="Level3">日立製作所</LocalizedString>
+
+
+    <LocalizedString identifier="INDUSTRIAL_NAME" key="IndustrialFarming">ホウスイ</LocalizedString>
+    <LocalizedString identifier="INDUSTRIAL_NAME" key="IndustrialForestry">タマホーム</LocalizedString>
+    <LocalizedString identifier="INDUSTRIAL_NAME" key="IndustrialOil">国際石開帝石</LocalizedString>
+    <LocalizedString identifier="INDUSTRIAL_NAME" key="IndustrialOre">日鉄鉱業</LocalizedString>
+
+<!-- Custom Office Names -->
+    <LocalizedString identifier="OFFICE_NAME" key="Level1">JTB</LocalizedString>
+    <LocalizedString identifier="OFFICE_NAME" key="Level1">セコム</LocalizedString>
+    <LocalizedString identifier="OFFICE_NAME" key="Level2">かんぽ生命保険</LocalizedString>
+    <LocalizedString identifier="OFFICE_NAME" key="Level2">新生銀行</LocalizedString>
+    <LocalizedString identifier="OFFICE_NAME" key="Level3">丸紅</LocalizedString>
+    <LocalizedString identifier="OFFICE_NAME" key="Level3">三菱商事</LocalizedString>
+    <LocalizedString identifier="OFFICE_NAME" key="Level3">豊田通商</LocalizedString>
+
+  </strings>
+</NameList>
