@@ -47,6 +47,7 @@
 
 <!-- Tunnel Name Patterns ▼トンネルのパターン-->
     <LocalizedString identifier="TUNNEL_NAME_PATTERN">{0}トンネル</LocalizedString>
+    <LocalizedString identifier="TUNNEL_NAME_PATTERN">{0}隧道</LocalizedString>
 
 
 
@@ -902,7 +903,6 @@
     <LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level2">{0}レジデンス</LocalizedString>
     <LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level2">{0}マンション</LocalizedString>
 
-    
     <LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level3">{0}レジデンス</LocalizedString>    
     <LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level3">{0}マンション</LocalizedString>
     <LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level3">コート{0}</LocalizedString>
@@ -918,7 +918,6 @@
     <LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">グランドパレス{0}</LocalizedString>
     <LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">グランドハイツ{0}</LocalizedString>
     <LocalizedString identifier="RESIDENCE_HIGH_PATTERN" key="Level5">{0}グランドタワー</LocalizedString>
-
 
 <!-- Custom Residence Names ▼固有名称：住居名-->
     <LocalizedString identifier="RESIDENCE_NAME">府中</LocalizedString>
@@ -1030,6 +1029,58 @@
     <LocalizedString identifier="RESIDENCE_NAME">熊野</LocalizedString>
     <LocalizedString identifier="RESIDENCE_NAME">王寺</LocalizedString>
     <LocalizedString identifier="RESIDENCE_NAME">綾川</LocalizedString>
+
+
+<!-- Custom Connections Names ▼マップ・地域名-->
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="America">青森{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="America">盛岡{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="America">仙台{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="America">秋田{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="America">山形{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="America">福島{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="America">水戸{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="America">宇都宮{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="America">前橋{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="America">さいたま{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="America">千葉{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="America">横浜{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Europe">新潟{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Europe">富山{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Europe">金沢{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Europe">福井{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Europe">甲府{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Europe">長野{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Europe">岐阜{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Europe">静岡{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Europe">名古屋{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Europe">津{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Europe">大津{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Europe">神戸{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Europe">奈良{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Europe">和歌山{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Mideast">徳島{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Mideast">高松{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Mideast">松山{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Mideast">高知{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Spanish">鳥取{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Spanish">松江{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Spanish">岡山{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Spanish">広島{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Spanish">山口{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Spanish">福岡{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Spanish">佐賀{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Spanish">長崎{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Spanish">熊本{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Spanish">大分{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Spanish">宮崎{0}</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_PATTERN" key="Spanish">鹿児島{0}</LocalizedString>
+
+
+<!-- Custom Connections Names ▼マップ・地域名～種類-->
+    <LocalizedString identifier="CONNECTIONS_NAME" key="America">市</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_NAME" key="Europe">市</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_NAME" key="Mideast">市</LocalizedString>
+    <LocalizedString identifier="CONNECTIONS_NAME" key="Spanish">市</LocalizedString>
 
 
   </strings>
