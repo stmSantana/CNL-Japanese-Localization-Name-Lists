@@ -15,7 +15,7 @@ get { return "CNL Japanese Localization Name Lists"; }
 
 public string Description
 {
-get { return "This MOD doesn't work by itself. Please subscribe 'Custom Name Lists' Mod, Then, Enable both Mod. by stmSantana"; }
+	get { return "(By stmSantana) このMODは単独では働きません. Subscribe 'Custom Name Lists' Mod, Then, Enable both Mod."; }
 }
 }
 } 
